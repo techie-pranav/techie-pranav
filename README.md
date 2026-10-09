@@ -10,11 +10,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=techie-pranav&show_icons=true&theme=default&hide_border=true&bg_color=F5F8FF&title_color=365A86&text_color=526783&icon_color=7C8FE8&include_all_commits=true" alt="GitHub statistics" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=techie-pranav&show_icons=true&hide_border=true&bg_color=111827&title_color=BFDBFE&text_color=D1D5DB&icon_color=93C5FD&ring_color=93C5FD&include_all_commits=true" alt="GitHub statistics" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techie-pranav&layout=compact&theme=default&hide_border=true&bg_color=F5F8FF&title_color=365A86&text_color=526783&langs_count=5" alt="Most used languages" width="49%"/>
-
-<img src="https://streak-stats.demolab.com?user=techie-pranav&theme=default&hide_border=true&background=F5F8FF&ring=7C8FE8&fire=E6A4C8&currStreakLabel=365A86&sideLabels=526783&currStreakNum=365A86&sideNums=365A86&dates=8297B0" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=techie-pranav&hide_border=true&background=111827&ring=93C5FD&fire=BAA6F7&currStreakLabel=BFDBFE&sideLabels=D1D5DB&currStreakNum=F3F4F6&sideNums=D1D5DB&dates=9CA3AF" alt="GitHub contribution streak" width="49%"/>
 
 </div>
 
@@ -36,18 +34,18 @@ I'm an Electronics & Telecommunication engineering student interested in how tec
 
 **Programming & Development**
 
-![C](https://img.shields.io/badge/C-EAF2FF?style=flat-square&logo=c&logoColor=365A86)
-![Python](https://img.shields.io/badge/Python-EAF2FF?style=flat-square&logo=python&logoColor=365A86)
-![Git](https://img.shields.io/badge/Git-EAF2FF?style=flat-square&logo=git&logoColor=E76F51)
-![GitHub](https://img.shields.io/badge/GitHub-EAF2FF?style=flat-square&logo=github&logoColor=365A86)
-![VS Code](https://img.shields.io/badge/VS%20Code-EAF2FF?style=flat-square&logo=visualstudiocode&logoColor=2878C7)
+![C](https://img.shields.io/badge/C-1F2937?style=flat-square&logo=c&logoColor=BFDBFE)
+![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=BFDBFE)
+![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=FCA5A5)
+![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=E5E7EB)
+![VS Code](https://img.shields.io/badge/VS%20Code-1F2937?style=flat-square&logo=visualstudiocode&logoColor=93C5FD)
 
 **Embedded Systems & Electronics**
 
-![Arduino](https://img.shields.io/badge/Arduino-EAF2FF?style=flat-square&logo=arduino&logoColor=168C8C)
-![ESP32](https://img.shields.io/badge/ESP32-EAF2FF?style=flat-square&logo=espressif&logoColor=365A86)
-![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-EAF2FF?style=flat-square)
-![MATLAB](https://img.shields.io/badge/MATLAB-EAF2FF?style=flat-square&logo=mathworks&logoColor=CB6A30)
+![Arduino](https://img.shields.io/badge/Arduino-1F2937?style=flat-square&logo=arduino&logoColor=5EEAD4)
+![ESP32](https://img.shields.io/badge/ESP32-1F2937?style=flat-square&logo=espressif&logoColor=BFDBFE)
+![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-1F2937?style=flat-square&logoColor=BFDBFE)
+![MATLAB](https://img.shields.io/badge/MATLAB-1F2937?style=flat-square&logo=mathworks&logoColor=FDBA74)
 
 ---
 
