@@ -2,13 +2,6 @@
 
 <img src="./profile-banner.png" alt="Pranav Patil — Electronics, Software and AI" width="100%"/>
 
-### Electronics & Telecommunication Engineering Student
-
-*Exploring the intersection of electronics, software, and artificial intelligence.*
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-EAF2FF?style=flat-square&logo=github&logoColor=365A86)](https://github.com/techie-pranav)
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-EAF2FF?style=flat-square&logo=github&logoColor=365A86)](https://github.com/techie-pranav?tab=repositories)
-
 </div>
 
 ---
@@ -17,13 +10,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=techie-pranav&show_icons=true&hide_border=true&bg_color=F5F8FF&title_color=365A86&text_color=526783&icon_color=7C8FE8&ring_color=7C8FE8&include_all_commits=true" alt="GitHub statistics" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=techie-pranav&show_icons=true&theme=default&hide_border=true&bg_color=F5F8FF&title_color=365A86&text_color=526783&icon_color=7C8FE8&include_all_commits=true" alt="GitHub statistics" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techie-pranav&layout=compact&hide_border=true&bg_color=F5F8FF&title_color=365A86&text_color=526783&langs_count=5" alt="Most used languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techie-pranav&layout=compact&theme=default&hide_border=true&bg_color=F5F8FF&title_color=365A86&text_color=526783&langs_count=5" alt="Most used languages" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=techie-pranav&theme=default&hide_border=true&background=F5F8FF&ring=7C8FE8&fire=E6A4C8&currStreakLabel=365A86&sideLabels=526783&currStreakNum=365A86&sideNums=365A86&dates=8297B0" alt="GitHub contribution streak"/>
 
 </div>
-
-> **Note:** Stats and language cards depend on public repository activity and a third-party service. The language card may show no data until you publish repositories containing detectable code.
 
 ---
 
